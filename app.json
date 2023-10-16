@@ -49,7 +49,7 @@
       },
       "HEROKU_APP_NAME": {
         "description": "Your heroku app name",
-        "value": "testing0008",
+        "value": "testing5xx",
         "required": false
       },
       "LOGGER_ID": {
